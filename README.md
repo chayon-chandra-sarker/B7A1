@@ -1,6 +1,6 @@
 # TypeScript Assignment Problems
 
-This repository contains basic to intermediate TypeScript practice problems and solutions.
+This repository contains basic to intermediate TypeScript assignment problems and solutions.
 
 ## Topics Covered
 
