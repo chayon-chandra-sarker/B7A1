@@ -1,4 +1,4 @@
-# TypeScript Practice Problems
+# TypeScript Assignment Problems
 
 This repository contains basic to intermediate TypeScript practice problems and solutions.
 
